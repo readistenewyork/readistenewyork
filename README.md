@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @readistenewyork
 - 👀 I’m interested in ... my team's interests:
 - rafi: team leadership, team development and support, natural language systems, audio based operating systems, virtual/digital assistants, computer-based audio players, biomedical sciences, industrial research, technical processes, progressive development,
-- walter: team culture/support, people, food, restaurants, nutrition and recipes, fitness,
 - stanley: python, automation, informatics,
-- rabia: data analytics,
-- ryan: neurosurgery, medicine, biology, technology.
+- rabia: data analytics, pediatric medicine, public health,
+- ryan: neurosurgery, medicine, biology, technology,
+- ray: linguistics, music.
 - 🌱 I’m currently learning ... data analytics, human/developmental psychology, epidemiology, foundations of finance, startups
 - 💞️ I’m looking to collaborate on ... synchronous multrack internet based audio playback applications, software, and systems,
 - 📫 How to reach me ... call/text rafi 7184831782, state from github

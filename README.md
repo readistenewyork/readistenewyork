@@ -5,20 +5,25 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
- 👀 My team's interests:
+ My team's interests:
  Rafi - Team Leadership, Team Development and Support, Natural Language Systems, Audio-Based Operating Systems, Virtual/Digital Assistants, Computer-Based Audio Players, Biomedical Sciences, Industrial Research, Technical Processes, Progressive Development
  
  Ryan - Science, Technology, Engineering, Enterprise, Arts, Math, Music, Neurosurgery, Medicine, Biology, Technology
  
- Ray - Humanities, Engineering, Enterprise, Arts, Research, Technology, Science, Linguistics, Music
+
  
  Siam - Music, Arts, Knowledge-base, Engineering, Research, Science
  
  Adam - Technology, Coding, Neurosurgery, Teaching/Training, IT, Information Systems, Operating Systems, Javascript, HTML, CSS
  
  Faiyaz - App Development, Natural Language Integration, HTML, Python, Medicine, Oncology, Technology
- 
- Tejas - App Development, Natural Language Integration, Technology
+
+Alums
+ Ray N.- Humanities, Engineering, Enterprise, Arts, Research, Technology, Science, Linguistics, Music
+
+ Exits
+ Zach  K. - Programming
+ Tejas    - App Development, Natural Language Integration, Technology
  
 ----------------------------------------------------------------------------------------------------------------------------------------
 

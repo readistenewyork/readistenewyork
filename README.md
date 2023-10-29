@@ -18,6 +18,8 @@
  
  Faiyaz - App Development, Natural Language Integration, HTML, Python, Medicine, Oncology, Technology
 
+ Dhruv- Science, Medicine, Biology, Finance, Math, Music, Cardiology, Neurology, Sports Fitness
+
 Alums
  Ray N.- Humanities, Engineering, Enterprise, Arts, Research, Technology, Science, Linguistics, Music
 

@@ -1,11 +1,9 @@
-----------------------------------------------------------------------------------------------------------------------------------------
+------------------------------
 - 👋 Hi, I’m @readistenewyork
-----------------------------------------------------------------------------------------------------------------------------------------
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
+------------------------------
 
  My team's interests:
+ 
  Rafi - Team Leadership, Team Development and Support, Natural Language Systems, Audio-Based Operating Systems, Virtual/Digital Assistants, Computer-Based Audio Players, Biomedical Sciences, Industrial Research, Technical Processes, Progressive Development
  
  Ryan - Science, Technology, Engineering, Enterprise, Arts, Math, Music, Neurosurgery, Medicine, Biology, Technology
@@ -73,10 +71,8 @@ Program in Introductory App Development  with Natural Language Integration,
 
 Tejas is our Program in Introductory App Development with Natural Language Integration Resident Developer in Training. His cultivated passion for medicine has pushed him to work with us to promote healthcare accessibility. With an emphasis on helping educate the community, Tejas has joined us to provide an accessible way to use research information to develop further technology to aid advancements and life.
 
-----------------------------------------------------------------------------------------------------------------------------------------
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------
+-------------------------
 
 More About Us:
 
@@ -92,25 +88,22 @@ During that time frame we developed proof of concept of web page based multi-sou
 
 In late June 2022, readisten submitted a provisional patent to the United States Patent Office.
 
-In July 2022, readisten developed in house multiple application program interface systems to integrate into browsers with additional proprietary features,
+In July 2022, readisten developed in house multiple application program interface systems to integrate into browsers with additional proprietary features...
 
 During this period we also initialized a pipeline for second and third generation technology for computer based narrative and natural language assisted synthetic speech or human voice over.
 
 In Fall 2022, the readisn team launched an Exploratory Developer Training Residency specifically catered to the various specialized text to speech programs used at the company.
 
-Readisn’s work, innovations, research and development is vital for common progress with a mission to accelerate discovery and referential systems for our country and humanity.
+United States Provisional Patent Application 2022
+US        Non Provisional Patent Application 2023
 
-United States Provisional Patent Application, 2022.
+------------------------------------
+------------------------------------
 
-----------------------------------------------------------------------------------------------------------------------------------------
+- 🌱 I’m currently learning .......... UI Kits to IDEs AStudio, XCode
+- 💞️ I’m looking to collaborate on ... Advanced Audioplayer Systems
+- 📫 How to reach me ... ............. rafi@readisten.com
 
+- & Thank You to our Advisors! 😁
 
------------------------------------------------------------------------------------------------------------------------------------------
-
-- 🌱 I’m currently learning ... Data analytics, Human/Developmental Psychology, Epidemiology, Foundations of Finance, Startups
-- 💞️ I’m looking to collaborate on ... Synchronous Multrack Internet Based Audio Playback Applications, Software, and Systems,
-- 📫 How to reach me ... Call/Text Rafi @ +1 (718) 483-1782
-
-- & Thank You to our Advisors and Sponsors for supporting our project from the ground up! 😁
-
------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------

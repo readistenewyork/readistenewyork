@@ -17,6 +17,7 @@
  Faiyaz - App Development, Natural Language Integration, HTML, Python, Medicine, Oncology, Technology
 
  Dhruv- Science, Medicine, Biology, Finance, Math, Music, Cardiology, Neurology, Sports Fitness
+ 
 
 Alums
  Ray N.- Humanities, Engineering, Enterprise, Arts, Research, Technology, Science, Linguistics, Music
@@ -64,12 +65,6 @@ Faiyaz: Resident Developer in Training, Pre-Collegiate,
 Program in Introductory App Development  with Natural Language Integration,
 
 Faiyaz is our Program in Introductory App Development with Natural Language Integration Resident Developer in Training. He has a great fondness for mathematics. He also has experience in a number of coding languages such as HTML, Python, and R. Faiyaz is passionate about medicine, especially oncology, and he seeks to use his knowledge of this field in our program.
-
-Tejas: Resident Developer in Training, Pre-Collegiate,
-
-Program in Introductory App Development  with Natural Language Integration,
-
-Tejas is our Program in Introductory App Development with Natural Language Integration Resident Developer in Training. His cultivated passion for medicine has pushed him to work with us to promote healthcare accessibility. With an emphasis on helping educate the community, Tejas has joined us to provide an accessible way to use research information to develop further technology to aid advancements and life.
 
 -------------------------
 -------------------------
